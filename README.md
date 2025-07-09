@@ -1,0 +1,3 @@
+# Arch Linux Install Guide
+
+This is my in-depth guide to how I install Arch Linux. This is a refresher for myself should I ever need it, though I hope that it may help anyone else looking to install the OS. This was written in an [Obsidian](https://obsidian.md/) Vault and is the recommended way to view it. Clone this repo and then open it with the software.
