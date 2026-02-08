@@ -10,4 +10,6 @@ If this does not return `2`, then write 2 into it with `nvim` or your text edito
 options hid_apple fnmode=2
 ```
 
+Then, make sure you have the `modconf` HOOK in your `HOOKS-()` line OR that you have `/etc/modprobe.d/hid_apple.conf` in your `FILES=()` line and regenerate your initramfs with `mkinitcpio -P`.
+
 More info at: https://wiki.archlinux.org/title/Apple_Keyboard
